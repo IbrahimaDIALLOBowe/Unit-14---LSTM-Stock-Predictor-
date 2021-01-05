@@ -16,9 +16,10 @@ You will need to:
 
 ### Files
 
-[Closing Prices Starter Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb)
 
-[FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
+![Closing Prices Starter Notebook](image.jpg)
+
+![FNG Starter Notebook](image.jpg)
 
 - - -
 
@@ -50,12 +51,17 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 Use the above to answer the following:
 
-> Which model has a lower loss?
->
-> Which model tracks the actual values better over time?
->
-> Which window size works best for the model?
+>**Q: Which model has a lower loss?**
 
+**S: The loss metric is better for the closing model: 0.0516 than to the fng model: 0.1242**
+
+>**Q:Which model tracks the actual values better over time?**
+
+**S: The closing price precditor model tracks the actuel values better over time**
+
+>**Q: Which window size works best for the model?**
+
+**S:After experimenting with a few sizes, window size 1 is the best**
 - - -
 
 ### Resources
@@ -76,13 +82,11 @@ For training, use at least 10 estimators for both models.
 
 - - -
 
-### Submission
 
-* Create Jupyter Notebooks for the homework and host the notebooks on GitHub.
+![alt text](Closing-Prices.jpg)
 
-* Include a Markdown that summarizes your homework and include this report in your GitHub repository.
+![alt text](Using-Fear-and-Greed-Index.jpg)
 
-* Submit the link to your GitHub project to Bootcamp Spot.
 
 - - -
 
