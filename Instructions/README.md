@@ -17,10 +17,9 @@ You will need to:
 ### Files
 
 
-![Closing Prices Starter Notebook](image.jpg)
+[Closing Prices Starter Notebook](Starter_Code/lstm_stock_predictor_closing.ipynb)
 
-![FNG Starter Notebook](image.jpg)
-
+[FNG Starter Notebook](Starter_Code/lstm_stock_predictor_fng.ipynb)
 - - -
 
 ## Instructions
@@ -83,7 +82,7 @@ For training, use at least 10 estimators for both models.
 - - -
 
 
-![alt text](Images/Closing-Prices.jpg)
+![Closing-Prices.jpg](Images/Closing-Prices.jpg)
 
 ![alt text](Using-Fear-and-Greed-Index.jpg)
 
