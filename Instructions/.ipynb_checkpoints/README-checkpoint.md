@@ -82,9 +82,9 @@ For training, use at least 10 estimators for both models.
 - - -
 
 
-![closing-Prices.jpg](Image/Closing-Prices.jpg)
+![closing-Prices.jpg](Closing-Prices.jpg)
 
-![closing-Prices.jpg](Image/Using-Fear-and-Greed-Index.jpg)
+![closing-Prices.jpg](Using-Fear-and-Greed-Index.jpg)
 
 
 - - -
