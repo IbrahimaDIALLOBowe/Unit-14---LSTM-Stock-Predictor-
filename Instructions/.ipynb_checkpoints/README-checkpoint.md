@@ -50,17 +50,12 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 Use the above to answer the following:
 
->**Q: Which model has a lower loss?**
+> Which model has a lower loss?
+>
+> Which model tracks the actual values better over time?
+>
+> Which window size works best for the model?
 
-**S: The loss metric is better for the closing model: 0.0516 than to the fng model: 0.1242**
-
->**Q:Which model tracks the actual values better over time?**
-
-**S: The closing price precditor model tracks the actuel values better over time**
-
->**Q: Which window size works best for the model?**
-
-**S:After experimenting with a few sizes, window size 1 is the best**
 - - -
 
 ### Resources
@@ -81,9 +76,13 @@ For training, use at least 10 estimators for both models.
 
 - - -
 
-[Closing Prices.jpg](Images/deep-learning.jpg)
+### Submission
 
-[Using Fear and Greed Index.jpg](Images/deep-learning.jpg)
+* Create Jupyter Notebooks for the homework and host the notebooks on GitHub.
+
+* Include a Markdown that summarizes your homework and include this report in your GitHub repository.
+
+* Submit the link to your GitHub project to Bootcamp Spot.
 
 - - -
 
