@@ -16,10 +16,10 @@ You will need to:
 
 ### Files
 
-[Closing Prices Starter Notebook.JPG](Starter_Code/lstm_stock_predictor_closing.ipynb)
 
-[FNG Starter Notebook.JPG](Starter_Code/lstm_stock_predictor_fng.ipynb)
+![Closing Prices Starter Notebook](image.jpg)
 
+![FNG Starter Notebook](image.jpg)
 
 - - -
 
